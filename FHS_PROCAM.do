@@ -1,4 +1,4 @@
-use "C:\Users\christopher\Desktop\NHA_PM\PM_NHANES_2011_2016.dta"
+use "PM_NHANES_2011_2016.dta"
 
 *Survey weights
 gen wtmec6yr = wtmec2yr/3
