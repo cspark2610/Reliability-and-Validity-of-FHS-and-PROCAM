@@ -50,7 +50,7 @@ The results of the analysis should be interpreted in the context of the study li
 Overall, both measurements for predicting CVD risk are informative, but given the cross-sectional nature of NHANES, they are unable to accurately predict the outcome. In general,  FRS had better reliability and validity compared to PROCAM in our male NHANES population, which may be due to two reasons. First, PROCAM had some significant limitations in scoring the risk of the NHANES participants. Second, since NHANES is a US-based population, FRS was better at indicating CVD risk compared to PROCAM. In order to properly assess the validity and reliability of FRS versus PROCAM, analyses should be performed for a longitudinal study. 
 
 
-### References
+## References
 1.	CDC, NCHS. Underlying Cause of Death 1999-2013 on CDC WONDER Online Database, released 2015. Data are from the Multiple Cause of Death Files, 1999-2013, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed Feb. 3, 2015.
 2.	Wilson PWF, D’Agostino RB, Levy D, Belanger AM, Silbershatz H, Kannel WB. Prediction of Coronary Heart Disease Using Risk Factor Categories. CIRCULATION. 1998;(18):1837. http://proxy.library.nyu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edsbl&AN=RN043919581&site=eds-live. Accessed December 12, 2018.
 3.	D Agostino RB, Vasan RS, Pencina MJ, et al. General Cardiovascular Risk Profile for Use in Primary Care: The Framingham Heart Study. CIRCULATION. 2008;(6):743. http://proxy.library.nyu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edsbl&AN=RN224474773&site=eds-live. Accessed December 12, 2018.
