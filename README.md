@@ -4,6 +4,8 @@
 
 December 13, 2018
 
+Presentation Link: https://github.com/cspark2610/Reliability-and-Validity-of-FHS-and-PROCAM/blob/master/Psychometric_Presentation_Dec%2013th2018.pptx
+
 Cardiovascular disease (CVD) is the leading cause of death in the United States (US) and is responsible for approximately 1 in 4 deaths. 1 The major risk factors for CVD include age, sex, smoking, hypertension, hyperlipidemia, high LDL-C, low HDL-C, and diabetes. 2 Additional risk factors include obesity and family history of premature coronary heart disease (CHD). 2 In order to prevent further incidence of CVD, it is important to identify the population who may be at high-risk. Throughout the years, numerous multivariable risk assessments tools have been created and recommended for clinical use to implement proper prevention strategies. This analysis compares the effectiveness of two multivariable risk assessment tools in a male National Health and Nutrition Examination Survey (NHANES) sample: the Framingham 10-year CVD risk score (FRS) versus the Prospective Cardiovascular Münster Study (PROCAM) score.
 
 ### Framingham Risk Score (FRS)
